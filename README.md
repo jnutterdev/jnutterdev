@@ -8,7 +8,7 @@
 - Bitwig
 - FM synths
 
-|  ### Some of my favorite things: | 
+| Some of my favorite things: | 
 | ----------- | ----------- |
 | Linux      | Jekyll       |
 | coffee   | Bitwig        |
