@@ -8,13 +8,6 @@
 - Bitwig
 - FM synths
 
-| Some of my favorite things: | 
-| ----------- | ----------- |
-| Linux      | Jekyll       |
-| coffee   | Bitwig        |
-| Python/Django | FM synths |
-
-
 ### When I'm not coding: 
 I'm interested in pretty much anything sci-fi/cyberpunk and space.
 
