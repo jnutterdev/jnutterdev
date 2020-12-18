@@ -9,13 +9,13 @@
 <img align="left" alt="MySQL" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/javascript.svg" />
 <img align="left" alt="Jekyll" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/jekyll.svg" />
 
-
+<br><br>
 ### When I'm not coding: 
 
 <img align="left" alt="Ableton Live" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/abletonlive.svg" />
 <img align="left" alt="Bitwig" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/BW_Logo_Header.svg" />
 
-
+<br><br>
 ### Currently enrolled in:
 
 DigitalCrafts Fullstack Flex developer course.
