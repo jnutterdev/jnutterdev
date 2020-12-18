@@ -6,7 +6,7 @@
 <img align="left" alt="Linux" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/linux.svg" />
 <img align="left" alt="JavaScript" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/javascript.svg" />
 <img align="left" alt="Node.js" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/node-dot-js.svg" />
-<img align="left" alt="MySQL" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/javascript.svg" />
+<img align="left" alt="PostgreSQL" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/postgresql.svg" />
 <img align="left" alt="Jekyll" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/jekyll.svg" />
 
 <br><br>
