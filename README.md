@@ -1,15 +1,14 @@
 # Hi, I'm John Nutter!
 
-### Some of my favorite things: 
-- Linux 
-- coffee 
-- Python/Django
-- Jekyll
-- Bitwig
-- FM synths
+### Technologies I like to work with: 
+[<img align="left" alt="Linux" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/linux.svg" />]
+[<img align="left" alt="JavaScript" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/javascript.svg" />]
+[<img align="left" alt="Node.js" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/node-dot-js.svg" />]
+[<img align="left" alt="MySQL" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/javascript.svg" />]
+[<img align="left" alt="Jekyll" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/jekyll.svg" />]
 
 ### When I'm not coding: 
-I'm interested in pretty much anything sci-fi/cyberpunk and space.
+[<img align="left" alt="Ableton Live" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/abletonlive.svg" />]
 
 ### Currently enrolled in:
 DigitalCrafts Fullstack Flex developer course.
