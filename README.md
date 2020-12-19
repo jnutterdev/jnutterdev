@@ -1,5 +1,12 @@
 # Hi, I'm John Nutter!
-
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+@media (prefers-color-scheme: dark) {
+  .my-image {
+    filter: invert(100%);
+  }
+}
+</style>")
 
 ### Technologies I like to work with: 
 
