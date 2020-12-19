@@ -21,6 +21,8 @@
 <img align="left" alt="Bitwig" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/BW_Logo_Header.svg" />
 <img align="left" alt="Coffee" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/master/chocolate.svg" />
 <img align="left" alt="Comic books" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/master/comic.svg" />
+<img align="left" alt="Video games" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/master/video-games.svg" />
+
 
 <br><br>
 ### Currently enrolled in:
