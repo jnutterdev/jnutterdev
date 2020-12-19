@@ -3,8 +3,8 @@
 
 ### Technologies I like to work with: 
 
-<img class="my-image" align="left" alt="Linux" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/linux.svg" />
-<img class="my-image" align="left" alt="JavaScript" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/javascript.svg" />
+<img style="filter: invert(1) !important;" align="left" alt="Linux" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/linux.svg" />
+<img style="filter: invert(1);" align="left" alt="JavaScript" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/javascript.svg" />
 <img class="my-image" align="left" alt="Node.js" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/node-dot-js.svg" />
 <img class="my-image" align="left" alt="PostgreSQL" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/postgresql.svg" />
 <img class="my-image" align="left" alt="Jekyll" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/jekyll.svg" />
