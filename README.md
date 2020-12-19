@@ -2,11 +2,11 @@
 
 
 ### Technologies I like to work with: 
-@media (prefers-color-scheme: dark) {
+<style>@media (prefers-color-scheme: dark) {
   .my-image {
     filter: invert(100%);
   }
-}
+}</style>
 <img class="my-image" align="left" alt="Linux" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/linux.svg" />
 <img class="my-image" align="left" alt="JavaScript" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/javascript.svg" />
 <img class="my-image" align="left" alt="Node.js" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/node-dot-js.svg" />
