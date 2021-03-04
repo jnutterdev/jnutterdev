@@ -5,7 +5,6 @@
 
 <img align="left" alt="Linux" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/linux.svg" />
 <img align="left" alt="Node.js" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/node-dot-js.svg" />
-<img align="left" alt="Express.js" width="66px" src="https://github.com/jnutterdev/jnutterdev/blob/master/express.svg" />
 <img align="left" alt="Gatsby" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/gatsby.svg" />
 <img align="left" alt="Django" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/django.svg" />
 <img align="left" alt="Bulma" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/bulma.svg" />
