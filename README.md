@@ -4,9 +4,12 @@ I'm a full stack developer with an interest in REST APIs and databases. I typica
 ### Technologies I like to work with: 
 
 <img align="left" alt="Linux" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/linux.svg" />
-<img align="left" alt="Node.js" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/node-dot-js.svg" />
-<img align="left" alt="React" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/react.svg" />
+<img align="left" alt="PostgreSQL" width="22px" src="https://simpleicons.org/icons/postgresql.svg" />
 <img align="left" alt="Express.js" width="22px" src="https://simpleicons.org/icons/express.svg" />
+<img align="left" alt="React" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/react.svg" />
+<img align="left" alt="Node.js" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/node-dot-js.svg" />
+
+
 
 <br><br>
 ### When I'm not coding: 
