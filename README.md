@@ -1,5 +1,5 @@
 # Hi, I'm John Nutter!
-
+I'm a full stack developer with an interest in REST APIs and databases. I typically reach for Python and Node.js when developing, but I enjoy learning new technologes.
 
 ### Technologies I like to work with: 
 
@@ -9,7 +9,6 @@
 <img align="left" alt="Bulma" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/bulma.svg" />
 <img align="left" alt="Django" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/django.svg" />
 
-
 <br><br>
 ### When I'm not coding: 
 
@@ -18,8 +17,6 @@
 <img align="left" alt="Coffee" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/master/chocolate.svg" />
 <img align="left" alt="Comic books" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/master/comic.svg" />
 <img align="left" alt="Video games" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/master/video-games.svg" />
-
-
 <br><br>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jnutterdev&show_icons=true&theme=synthwave)
