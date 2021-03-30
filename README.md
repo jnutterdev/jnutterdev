@@ -21,6 +21,7 @@ I'm a full stack developer with an interest in REST APIs and databases. I typica
 <img align="left" alt="Video games" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/master/video-games.svg" />
 <br><br>
 
+
 [![](https://raw.githubusercontent.com/jnutterdev/github-stats/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jnutterdev/github-stats/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jnutterdev/github-stats/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jnutterdev/github-stats/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jnutterdev/github-stats/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
