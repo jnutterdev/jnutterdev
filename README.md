@@ -21,4 +21,4 @@ I'm a full stack developer with an interest in REST APIs and databases. I typica
 <img align="left" alt="Video games" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/master/video-games.svg" />
 <br><br>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=jnutterdev&show_icons=true&theme=synthwave)
+![](https://raw.githubusercontent.com/jnutterdev/github-stats/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
