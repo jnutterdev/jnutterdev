@@ -1,5 +1,5 @@
 # Hi, I'm John Nutter!
-I'm a full stack developer with an interest in REST APIs and databases. I typically reach for Python or Node.js, but I enjoy working with a variety of technologes. Currently learning Ruby on Rails. 
+I'm a software engineer with an interest in REST APIs and databases. I typically reach for Python or Node.js, but I enjoy working with a variety of technologes. 
 
 ### Technologies I like to work with: 
 
