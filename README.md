@@ -21,3 +21,4 @@ I'm a software engineer with an interest in REST APIs and databases. I typically
 <img align="left" alt="Video games" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/master/video-games.svg" />
 <br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnutterdev)](https://github.com/anuraghazra/github-readme-stats)
