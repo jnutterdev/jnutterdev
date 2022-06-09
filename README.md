@@ -1,5 +1,5 @@
 # Hi, I'm John Nutter! 
-<a href="https://twitter.com/jnutterdev"><img align="left" alt="Twitter" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/twitter.svg" /></a><a href="https://www.jnutterdev.com"><img align="left" alt="Jnutterdev Website" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/main/website.svg" /></a><br>
+<a href="https://twitter.com/jnutterdev" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/twitter.svg" /></a><a href="https://www.jnutterdev.com" target="_blank"><img align="left" alt="Jnutterdev Website" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/main/website.svg" /></a><br>
 
 I'm a software engineer with an interest in REST APIs and databases. I typically reach for Python or Node.js, but I enjoy working with a variety of technologes. 
 
