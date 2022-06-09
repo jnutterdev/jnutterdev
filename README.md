@@ -9,7 +9,7 @@ I'm a software engineer with an interest in REST APIs and databases. I typically
 <img align="left" alt="Python" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/python.svg" />
 <img align="left" alt="Hugo" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/hugo.svg" />
 <img align="left" alt="React" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/react.svg" />
-<img align="left" alt="React" width="22px" src="https://github.com/jnutterdev/tailwindcss.svg" />
+<img align="left" alt="Tailwind" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/main/tailwindcss.svg" />
 
 <br><br>
 
