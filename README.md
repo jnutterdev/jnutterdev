@@ -20,4 +20,6 @@ I'm a software engineer with an interest in REST APIs and databases. I typically
 <img align="left" alt="Video games" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/main/video-games.svg" />
 <br><br>
 
-I'm also on <a rel="me" href="https://mastodon.social/@terribledevice">Mastodon</a>
+I'm also on <a rel="me" href="https://mastodon.social/@terribledevice">
+    <img src="mastodon.svg" alt="Mastodon"/>
+</a>
