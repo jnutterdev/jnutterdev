@@ -5,9 +5,10 @@ I'm a software engineer with an interest in REST APIs and databases. I typically
 
 ### Technologies I like to work with: 
 
-<img align="left" alt="React" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/react.svg" />
-<img align="left" alt="Nodejs" width="22px" src="https://github.com/jnutterdev/simple-icons/blob/develop/icons/nodedotjs.svg" />
-<img align="left" alt="Tailwind" width="22px" src="https://github.com/jnutterdev/jnutterdev/blob/main/tailwindcss.svg" />
+<img align="left" alt="React" width="22px" src="react.svg" />
+<img align="left" alt="Astro" width="22px" src="astro.svg" />
+<img align="left" alt="NodeJS" width="22px" src="nodedotjs.svg" />
+
 
 <br><br>
 
